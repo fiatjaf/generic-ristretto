@@ -5,7 +5,7 @@ package ristretto
 //	"testing"
 //	"time"
 //
-//	"github.com/dgraph-io/ristretto/z"
+//	"github.com/fiatjaf/generic-ristretto/z"
 //	"github.com/stretchr/testify/require"
 //)
 //

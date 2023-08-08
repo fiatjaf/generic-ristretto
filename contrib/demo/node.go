@@ -5,7 +5,7 @@ import (
 	"runtime"
 	"unsafe"
 
-	"github.com/dgraph-io/ristretto/z"
+	"github.com/fiatjaf/generic-ristretto/z"
 	"github.com/dustin/go-humanize"
 )
 

@@ -4,7 +4,7 @@
 package main
 
 import (
-	"github.com/dgraph-io/ristretto/z"
+	"github.com/fiatjaf/generic-ristretto/z"
 	"github.com/golang/glog"
 )
 

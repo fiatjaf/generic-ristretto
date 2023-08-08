@@ -1,4 +1,4 @@
-module github.com/dgraph-io/ristretto
+module github.com/fiatjaf/generic-ristretto
 
 go 1.19
 
